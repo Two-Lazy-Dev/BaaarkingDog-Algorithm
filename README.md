@@ -14,10 +14,11 @@
 
 ### 진행 방식 ⭐
 
-1. 다음 주차에 학습한 알고리즘 강의를 `Issues`로 등록한다.  
-2. 학습한 내용은 `Pull Requests`를 통해 리포지토리에 업로드한다.
-3. `Reviewer`가 해당 PR을 확인하고 승인한다.
-4. `Merge` 한다
+1. 다음 주차에 학습할 알고리즘 강의를 `Issues`로 등록한다
+2. `Issues`에서 `Create new branch`를 한다
+3. 학습한 내용은 새로 만든 branch에서 `Pull Requests`를 통해 리포지토리에 업로드한다
+4. `Reviewer`가 해당 PR을 확인하고 승인한다. (1명 이상)
+5. `Merge` 한다
 
 <br>
 
